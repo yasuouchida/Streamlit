@@ -131,10 +131,3 @@ if uploaded_file is not None:
         st.warning("アップロードされたSB3ファイルにはリストが含まれていませんでした。")
 else:
     st.info("SB3ファイルをアップロードしてください。")
-#"""
-
-"""with open('app.py', 'w') as f:
-    f.write(app_py_code)
-
-print("app.py が作成されました。")
-"""
