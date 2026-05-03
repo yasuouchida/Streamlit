@@ -133,7 +133,8 @@ else:
     st.info("SB3ファイルをアップロードしてください。")
 #"""
 
-with open('app.py', 'w') as f:
+"""with open('app.py', 'w') as f:
     f.write(app_py_code)
 
 print("app.py が作成されました。")
+"""
