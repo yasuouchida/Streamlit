@@ -96,4 +96,6 @@ if uploaded_file:
                     file_name=output_name,
                     mime="application/octet-stream"
                 )
-st.write("Copyright")
+
+st.divider()
+st.write("(C) Yasuo Uchida 2026")
