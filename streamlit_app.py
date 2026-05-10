@@ -98,4 +98,4 @@ if uploaded_file:
                 )
 
 st.divider()
-st.write("(C) Yasuo Uchida 2026")
+st.write("© 2026 Yasuo Uchida")
