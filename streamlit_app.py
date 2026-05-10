@@ -42,7 +42,7 @@ def create_updated_sb3(uploaded_file, project_data, target_list_name, new_list):
 
 # --- 2. Streamlit UI ---
 st.set_page_config(page_title="Scratch List Manager", layout="centered")
-st.title("Scratch リスト更新ツール 🛠️")
+st.title("Scratch リスト更新ツール V.0.1 🛠️")
 
 uploaded_file = st.file_uploader("SB3ファイルをアップロード", type="sb3")
 
